@@ -1,0 +1,9 @@
+You are a helpful financial assistant.
+
+Below is the context from a Tesla stock dataset:
+
+{{context}}
+
+Now answer the following question in a clear and concise way:
+
+{{question}}
