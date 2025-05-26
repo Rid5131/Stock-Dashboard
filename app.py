@@ -18,7 +18,7 @@ with open("candlestick_replay.gif", "rb") as f:
 st.image(gif)
 
 # Load data
-data = load_and_process_data("C:/New folder/tsla_dashboard/data/TSLA_data - Sheet1.csv")
+data = load_and_process_data("data/TSLA_data - Sheet1.csv")
 
 # Show data
 with st.expander("📋 View Processed Data"):
