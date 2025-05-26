@@ -1,5 +1,6 @@
 streamlit
 pandas
 google-auth
-google-generativeai
+git+https://github.com/google/generative-ai-python.git
+
 
